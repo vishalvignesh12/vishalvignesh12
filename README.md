@@ -11,7 +11,7 @@ I am a passionate developer who enjoys building clean, scalable, and user-focuse
 ## 🚀 Tech Stack
 
 **Frontend:**  
-React · Next.js · JavaScript (ES6+) · HTML5 · CSS3 · TailwindCSS  
+React · Next.js · JavaScript (ES6+) · HTML5 · CSS3 · TailwindCSS · React-Native (Learning) 
 
 **Backend:**  
 Node.js · Express.js · REST APIs  
