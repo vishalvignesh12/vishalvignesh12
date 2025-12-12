@@ -51,7 +51,7 @@ Explores end-to-end voice automation for business workflows.
 ---
 
 ## 🤝 Let’s Connect
-- **LinkedIn:** [your-link](https://www.linkedin.com/in/vishal-vignesh-a52865399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **LinkedIn:** [My Linkedin](https://www.linkedin.com/in/vishal-vignesh-a52865399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **Portfolio:** coming soon  
 
 ---
