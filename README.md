@@ -50,14 +50,6 @@ Explores end-to-end voice automation for business workflows.
 
 ---
 
-## 📈 GitHub Stats
-
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 🤝 Let’s Connect
 - **LinkedIn:** your-link  
 - **Portfolio:** coming soon  
