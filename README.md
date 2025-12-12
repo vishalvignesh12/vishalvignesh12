@@ -17,7 +17,7 @@ React · Next.js · JavaScript (ES6+) · HTML5 · CSS3 · TailwindCSS
 Node.js · Express.js · REST APIs  
 
 **Databases:**  
-MongoDB · MySQL  
+MongoDB  
 
 **DevOps & Tools:**  
 Git · GitHub · Docker (beginner) · Postman · VS Code  
@@ -40,13 +40,16 @@ Git · GitHub · Docker (beginner) · Postman · VS Code
 
 ## 📂 Featured Projects
 
-### 🔹 **E-Commerce Storefront (In Progress)**
-A full-featured custom storefront with interactive cart, responsive UI, and reusable components.  
-**Tech:** Next.js, React, Tailwind, Zustand  
+### 🔹 **Narumugai Boutique (E-commerce Site)**
+A Full-Stack Production E-Commerce Website.  
+**Tech:** Next.js, React, Tailwind,  
 
-### 🔹 **Automated Call Agent (AI Voicebot Prototype)**
-Explores end-to-end voice automation for business workflows.  
-**Tech:** Node.js, Webhooks, AI APIs  
+### 🔹 **Sortr - A Smart Parking software (in progress)**
+A Smart Parking solution for Modern society.  
+**Tech:** Node.js, Webhooks, AI APIs
+
+### 🔹 **Life-Vault - A Side Project for my college**
+A LifeVault is an app for patients that is useful for them. More Details will be shared later.
 
 ---
 
